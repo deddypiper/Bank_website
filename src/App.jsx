@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './style'
-import { Navbar, Testimonials, Stats, Hero, GetStarted, Footer, FeedbackCard, Clients, CardDeal, CTA, Button, Business, Billing } from './components'
+import { Navbar, Testimonials, Stats, Hero, Footer, Clients, CardDeal, CTA, Business, Billing } from './components'
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden" style={{backgroundColor: "rgb(20, 4, 15)"}}>
